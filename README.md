@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some information about me:
 
 - 🔭 I’m currently focused on DevOps
 - 🌱 I’m currently learning AWS
