@@ -13,3 +13,6 @@ Here are some information about me:
 <a href="https://www.credly.com/earner/earned/badge/afabc58c-5958-4c1c-9aa9-79a40a511e57">
   <img align="center" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" />
 </a>
+<a href="https://www.credly.com/badges/2fef93c0-4d98-476f-90c7-644174c8a52c">
+  <img align="center" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+</a>
