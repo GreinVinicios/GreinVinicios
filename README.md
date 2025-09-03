@@ -35,10 +35,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Cloud:** AWS, Azure  
+- **Cloud:** AWS, GCP, Azure  
 - **Containers:** Kubernetes, Docker  
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins  
+- **CI/CD:** ArgoCD, GitHub Actions, Jenkins  
 - **IaC:** Terraform, Ansible  
-- **Monitoring:** Prometheus, Grafana, ELK Stack  
+- **Monitoring:** Datadog  
 
 ---
