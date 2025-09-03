@@ -16,3 +16,6 @@ Here are some information about me:
 <a href="https://www.credly.com/badges/2fef93c0-4d98-476f-90c7-644174c8a52c/public_url">
   <img align="center" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
 </a>
+<a href="https://www.credly.com/badges/4ef03156-8563-4eba-b9ba-f6d6345683e7/public_url">
+  <img align="center" src="https://images.credly.com/size/340x340/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" />
+</a>
