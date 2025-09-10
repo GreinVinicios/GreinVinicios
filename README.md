@@ -23,13 +23,16 @@
 ## 📜 Certifications  
 
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/0063e248-704b-432c-8ffd-7d52017d3065-vinicios-grein-985acda1-6de8-4cc8-a2ec-c32c5b325ec4-certificate.pdf">
-  <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" />
+  <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" height="150" />
 </a>
 <a href="https://www.credly.com/badges/2fef93c0-4d98-476f-90c7-644174c8a52c/public_url">
-  <img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+  <img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" height="150" />
 </a>
 <a href="https://www.credly.com/badges/4ef03156-8563-4eba-b9ba-f6d6345683e7/public_url">
-  <img src="https://images.credly.com/size/150x150/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" />
+  <img src="https://images.credly.com/size/150x150/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" width="150" height="150" />
+</a>
+<a href="https://coursera.org/share/81ceee0d04defb41934d0017e5977d70">
+  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/fb37165a32974db9b2683988c84febd6.png?auto=format%2Ccompress&dpr=1" width="150" height="150" />
 </a>  
 
 ---
