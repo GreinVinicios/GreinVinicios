@@ -34,6 +34,9 @@
 <a href="https://coursera.org/share/81ceee0d04defb41934d0017e5977d70">
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/fb37165a32974db9b2683988c84febd6.png?auto=format%2Ccompress&dpr=1" width="120" height="120"/>
 </a>
+<a href="https://coursera.org/share/0507cca59412db072b49e7216bf59aa7">
+  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/ac7d496a72a64e9a9c7958bd98b786a7.png?auto=format%2Ccompress&dpr=1" width="120" height="120"/>
+</a>
 
 
 ---
