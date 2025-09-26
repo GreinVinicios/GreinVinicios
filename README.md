@@ -30,7 +30,10 @@
 </a>
 <a href="https://www.credly.com/badges/4ef03156-8563-4eba-b9ba-f6d6345683e7/public_url">
   <img src="https://images.credly.com/size/150x150/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" width="120" height="120"/>
-</a>  
+</a>
+<a href="https://www.credly.com/badges/c5cb8aef-f22c-4fe4-869e-b1a59b41eada">
+  <img src="https://images.credly.com/size/340x340/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" width="120" height="120"/>
+</a>
 <a href="https://coursera.org/share/81ceee0d04defb41934d0017e5977d70">
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/fb37165a32974db9b2683988c84febd6.png?auto=format%2Ccompress&dpr=1" width="120" height="120"/>
 </a>
