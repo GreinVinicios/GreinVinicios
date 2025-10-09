@@ -67,6 +67,9 @@ I believe DevOps is not just about tools — it’s about connecting people, pro
 <a href="https://coursera.org/share/0507cca59412db072b49e7216bf59aa7">
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/ac7d496a72a64e9a9c7958bd98b786a7.png?auto=format%2Ccompress&dpr=1" width="110" height="110"/>
 </a>
+<a href="https://coursera.org/share/0dcb438d6ab56a3e59d76fd0b8d210e9">
+  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/34e50feb994f422f8fb221d35b433694.png?auto=format%2Ccompress&dpr=1" width="110" height="110"/>
+</a>
 
 ---
 
