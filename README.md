@@ -38,6 +38,9 @@
 <a href="https://www.credly.com/badges/d97b7634-655e-476a-9130-7d17a13c083b">
   <img src="https://images.credly.com/size/340x340/images/8cbb40df-9f7c-46ee-8ff6-3fbefdd7681f/Agentic_20AI_20with_20LangChain_20and_20LangGraph.png" width="120" height="120"/>
 </a>
+<a href="https://www.credly.com/badges/a6cf31fc-2e03-4969-8aeb-f37c3aca33cc">
+  <img src="https://images.credly.com/size/340x340/images/adad564e-cd68-4b33-9a96-cbd3a61487b0/Agentic_20AI_20with_20LangGraph_20CrewAI_20AutoGen_20and_20BeeAI.png" width="120" height="120"/>
+</a>
 <br>
 <a href="https://coursera.org/share/81ceee0d04defb41934d0017e5977d70">
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-badge-assets.s3.amazonaws.com/preview/fb37165a32974db9b2683988c84febd6.png?auto=format%2Ccompress&dpr=1" width="120" height="120"/>
