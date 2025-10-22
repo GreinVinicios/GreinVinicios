@@ -62,6 +62,9 @@ I believe DevOps is not just about tools — it’s about connecting people, pro
 <a href="https://www.credly.com/badges/0e129633-4b0a-4015-8997-b01fea4d3622">
   <img src="https://images.credly.com/size/340x340/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" width="110" height="110"/>
 </a>
+<a href="https://www.credly.com/badges/fa4c7f02-cdd1-48ca-b90f-6eadcef03f18">
+  <img src="https://images.credly.com/size/340x340/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" width="110" height="110"/>
+</a>
 
 ### 🎓 Coursera  
 <a href="https://coursera.org/share/81ceee0d04defb41934d0017e5977d70">
