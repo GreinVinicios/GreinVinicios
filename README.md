@@ -45,6 +45,9 @@ I believe DevOps is not just about tools — it’s about connecting people, pro
 <a href="https://www.credly.com/badges/2fef93c0-4d98-476f-90c7-644174c8a52c/public_url">
   <img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" height="110"/>
 </a>
+<a href="https://www.credly.com/badges/356fbb47-201b-4528-8038-236e7d973bd2/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" height="110"/>
+</a>
 
 ### 🤖 AI & Automation  
 <a href="https://www.credly.com/badges/c5cb8aef-f22c-4fe4-869e-b1a59b41eada">
